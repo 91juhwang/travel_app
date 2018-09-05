@@ -1,24 +1,12 @@
-# README
+# Travel App API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+One app to manage all travel related items.
 
-Things you may want to cover:
+# Requirements
 
-* Ruby version
+* Ruby 2.3.1 or higher
+* Rails 5.1 or higher
 
-* System dependencies
+## API Endpoints
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Swagger URL:
